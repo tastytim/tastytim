@@ -7,6 +7,7 @@ skype: tastytimgm
 
 
 Alcuni lavori
+- https://github.com/20Federico/boolean_final_project
 - https://tastytim.github.io/htmlcss-playstation/index.html
 - https://tastytim.github.io/proj-html-vuejs/dist/
 - https://tastytim.github.io/vue-boolzapp/millestone5/
