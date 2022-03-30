@@ -16,3 +16,7 @@ Alcuni lavori
 - https://tastytim.github.io/html-css-spotifyweb/index.html
 - https://tastytim.github.io/htmlcss-dropbox/index.html
 
+
+
+CV rus - https://raw.githubusercontent.com/tastytim/cv/master/%D0%9F%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE%D0%A2%D0%B8%D0%BC%D1%83%D1%80.pdf
+
