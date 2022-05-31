@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Timur Pavlenko
 - 👀 I’m interested in developing
 
-My contacts : 
+# My contacts : 
 mail: tastytimgm@gmail.com
 skype: tastytimgm
-My Blog
+# My Blog
 - http://pavlenkotimur.xyz/
 
 
