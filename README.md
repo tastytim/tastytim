@@ -4,6 +4,8 @@
 My contacts : 
 mail: tastytimgm@gmail.com
 skype: tastytimgm
+My Blog
+- http://pavlenkotimur.xyz/
 
 
 Alcuni lavori
